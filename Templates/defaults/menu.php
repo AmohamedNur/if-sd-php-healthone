@@ -12,7 +12,7 @@
             <ul class="navbar-nav">
 
                 <li class="nav-item">
-                    <a class="nav-link" href="/categories">sportapparaat</a>
+                    <a class="nav-link" href="/categories.php">sportapparaat</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link"  href="/register">registreren</a>
